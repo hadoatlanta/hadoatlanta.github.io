@@ -1,0 +1,4 @@
+baseURL = 'https://hadoatlanta.github.io/'
+languageCode = 'en-us'
+title = 'Car DIY'
+theme = 'hugo-theme-relearn'
