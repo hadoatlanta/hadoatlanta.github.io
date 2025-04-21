@@ -15,7 +15,7 @@ title = '2014 Nissan Sentra'
 
 | Type  | Mile  | Date  |
 | :---: | :---: | :---: |
-|   -   |   -   |   -   |
+|   Spark Plug   |   134,500   |   April 19, 2025    |
 
 ## Air Filter & Cabin Air Filter
 
