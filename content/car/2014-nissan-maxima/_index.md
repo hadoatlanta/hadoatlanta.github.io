@@ -15,7 +15,7 @@ title = '2014 Nissan Maxima'
 
 | Type  | Mile  | Date  |
 | :---: | :---: | :---: |
-|   -   |   -   |   -   |
+|   Spark Plug   |   202,500   |   May 19, 2025    |
 
 ## Air Filter & Cabin Air Filter
 
