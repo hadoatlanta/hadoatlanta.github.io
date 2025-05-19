@@ -23,9 +23,10 @@ title = 'Expense May 2025'
 | **_Total_**  | **_1_** | **_111.82_** |              |
 
 2. Walmart.
-3. Farmer Market.
+3. Farmer Market - May 17, 2025
+   1. $130
 4. Nam Dea Mun.
-5. Aldi
+5. Aldi - May 14, 2025
    1. $70.
    2. $66.
 
