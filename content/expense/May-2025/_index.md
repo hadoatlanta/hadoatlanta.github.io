@@ -40,3 +40,7 @@ title = 'Expense May 2025'
 ## Restaurant.
 
 1.  Bep Cornor - $135.
+
+## School
+
+1. $1450 - May 20, 2025.
