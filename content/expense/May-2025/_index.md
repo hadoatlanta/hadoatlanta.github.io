@@ -20,12 +20,15 @@ title = 'Expense May 2025'
 | Center Cut   |    1    |         1.88 |              |
 | Caulif Thins |    1    |        15.86 |              |
 | Tax          |    1    |         2.19 |              |
-| **_Total_**  | **_1_** | **_111.82_** |              |
+| Groceries    |    1    |        79.00 | May 30, 2025 |
+| **_Total_**  | **_1_** | **_180.00_** |              |
 
 2. Walmart.
-3. Farmer Market - May 17, 2025
-   1. $130
+3. Farmer Market
+   1. $130 - May 17, 2025.
+   2. $35 - May 27, 2025.
 4. Nam Dea Mun.
+   1. $99.79 - May 30, 2025
 5. Aldi - May 14, 2025
    1. $70.
    2. $66.
@@ -35,6 +38,7 @@ title = 'Expense May 2025'
 | Vehicle | Quantity | Price |     Date     |
 | :------ | -------: | ----: | :----------: |
 | Sentra  |    9.133 | 24.92 | May 12, 2025 |
+| Sentra  |    9.133 | 24.92 | May 28, 2025 |
 | Maxima  |   16.304 | 42.21 | May 08, 2025 |
 
 ## Restaurant.
