@@ -50,9 +50,9 @@ title = '2018 Nissan Altima'
 - [Engine Coolant](https://www.walmart.com/ip/SUPER-TECH-AFC-ASIAN-BLUE-5050-PREDILUTED-1-GAL/3636570281).
 - Engine Coolant capacity - **_7 qt_**.
 
-| Mile | Date |
-| :--- | ---- | --- |
-| -    | -    | -   |
+| Mile    | Date         |
+| :------ | ------------ |
+| 148,000 | Sep 01, 2025 |
 
 ## Suspension
 
