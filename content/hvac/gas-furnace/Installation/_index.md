@@ -12,6 +12,14 @@ title = 'Gas Furnace installation'
 ![Gas Pipe Standard installion](../../images/How-to-Install-a-Gas-Furnace.jpg.webp)
 
 3. Thermostat wire
+   1. Red - 24v wire.
+   2. Yellow -  Cool wire.
+   3. White - Heat wire.
+   4. Green - Fan wire.
+   5. Blue - Common wire.
+
+![Thermostat wire ](../../images/article-2024december-comprehensive-guide-to-thermostat-fig8.avif)
+
 4. Door switch
 5. PVC drain pipe
 6. Air filter
