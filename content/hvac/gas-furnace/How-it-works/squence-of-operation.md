@@ -6,10 +6,10 @@ title = 'Gas Furnace Sequence of Operation'
 
 ## Sequence of Operation 
 
+![Sequence of Operation Steps](../../images/sequence-of-operation.webp).
+
 - https://www.youtube.com/watch?v=gN-UIr6824w.
 - https://www.youtube.com/watch?v=u3bxZRjXxRM.
-
-![Sequence of Operation Steps](../../images/sequence-of-operation.webp)
 
 1. **Thermostat Call for Heat**: 
    1. The sequence begins when the thermostat detects that the room temperature is below the set point. It sends a low-voltage signal to the furnace’s control board to initiate the heating cycle. 
