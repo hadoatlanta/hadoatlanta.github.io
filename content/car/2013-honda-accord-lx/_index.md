@@ -1,7 +1,7 @@
 +++
 date = '2025-03-06T08:32:43-05:00'
 draft = false
-title = '2014 Nissan Maxima'
+title = '2013 Honda Accord LX'
 +++
 
 ## Fuel
@@ -13,9 +13,9 @@ title = '2014 Nissan Maxima'
 - Make - DENSO FXE22HR11.
 - GAP - **_1.1 mm (0.043 in)_**.
 
-|    Type    |  Mile   |     Date     |
-| :--------: | :-----: | :----------: |
-| Spark Plug | 202,500 | May 19, 2025 |
+|    Type    | Mile  | Date  |
+| :--------: | :---: | :---: |
+| Spark Plug |   -   |   -   |
 
 ## Air Filter & Cabin Air Filter
 
@@ -23,10 +23,10 @@ title = '2014 Nissan Maxima'
   - 5.03 fl oz system oil
   - 1.21 ± 0.055 lb and HFC-134a refrigerant.
 
-| Type             | Mile    | Date             |
-| :--------------- | :------ | :--------------- |
-| Cabin Air Filter | 198,500 | February 1, 2025 |
-| Air Filter       | 188,500 | March 31, 2024   |
+| Type             | Mile | Date |
+| :--------------- | :--- | :--- |
+| Cabin Air Filter | -    | -    |
+| Air Filter       | -    | -    |
 
 ## Brake Fluid Oil & Front/Rear Brake
 
@@ -38,18 +38,26 @@ title = '2014 Nissan Maxima'
 
 ## Transmission Oil & Transmission Oil Filter
 
+- Engine start until the radiator fan come on.
 - Transmission Oil.
   - **_NISSAN CVT Fluid NS-2_**.
-  - **_10-3/4 qt_**.
+  - **_3.3 qt_**.
+- Drain Plug
+  - Tightening torque : **_49 Nm (5 kg-m, 36 ft-lb)_**.
+- Check Plug
+  - Tightening torque : **_20 Nm (2 kg-m, 15 ft-lb)_**.
 
-| Mile    | Date         |
-| :------ | ------------ |
-| 192,800 | July 7, 2024 |
+| Mile | Date |
+| :--- | ---- |
+| -    | -    |
 
 ## Engine Coolant
 
 - [Engine Coolant](https://www.walmart.com/ip/SUPER-TECH-AFC-ASIAN-BLUE-5050-PREDILUTED-1-GAL/3636570281).
-- Engine Coolant capacity - **_9-1/2 qt_**.
+- Engine Coolant capacity
+  - K24W1 **_1.66 gal_**.
+  - J35Y1 **_2.09 gal_**.
+  - J35Y2 **_2.03 gal_**.
 
 | Mile | Date |
 | :--- | ---- |
@@ -57,43 +65,45 @@ title = '2014 Nissan Maxima'
 
 ## Suspension
 
-| Type              | Mile    | Date            |
-| :---------------- | :------ | --------------- |
-| Lower control arm | 195,500 | October 3, 2024 |
-| Outer tie rod end | 195,500 | October 3, 2024 |
-| Sway bar link     | 195,500 | October 3, 2024 |
-| wheel hub bearing | 195,500 | October 3, 2024 |
+| Type | Mile | Date |
+| :--- | :--- | ---- |
+| -    | -    | -    |
+
 
 ## Wheel Rotate
 
 - Nut.
   - 21mm bolt.
-  - Tightening torque : **_113 Nm (12 kg-m, 83 ft-lb)_**.
+  - Tightening torque : **_108 Nm (11 kg-m, 80 ft-lb)_**.
 - Tire size.
   - **_P245/45R18_**.
   - P245/40R19
 - Air pressure.
-  - Front - 33psi.
+  - Front - 32psi.
   - Rear - 33psi.
   - Spare - 60psi.
 
-| Mile    | Date          |
-| :------ | ------------- |
-| 132,400 | March 2, 2025 |
+| Mile | Date |
+| :--- | ---- |
+| -    | -    |
 
 ## Engine Oil & Engine Oil Filter
 
-- Engine Oil capacity - **_5-1/8 qt_**.
+- Engine Oil capacity - 
+  - K24W1: **_4.4 qt_**.
+  - J35Y1: **_4.5 qt_**.
+- Engine Oil check:
+  - Run Engine for more than 3 minutes and then check oil level.
+- Maintenance Minder reset:
+  - https://www.youtube.com/watch?v=Xwk5DzAObTQ.
+- Trip odometer reset:
+  - https://www.youtube.com/watch?v=OLPYHs5Phqc
 - Drain plug.
   - 14mm bolt.
-  - Tightening torque : **_39 N·m (3.5 kg-m, 25 ft-lb)_**.
+  - Tightening torque : **_40 N·m (4.1 kg-m, 30 ft-lb)_**.
 - [Engine Oil - 5W-30](https://www.walmart.com/ip/Super-Tech-Advanced-Full-Synthetic-Motor-Oil-SAE-5W-30-5-Quarts/514849921).
 - [Engine Oil Filter](https://www.walmart.com/ip/Super-Tech-ST6607-10K-Mile-Spin-On-Motor-Oil-Filter-Fits-Honda-and-Infiniti-Vehicles-Fits-select-1998-2023-NISSAN-ALTIMA-2002-2023-HONDA-CR-V/506906164).
 
-| Mile    | Date            |
-| :------ | --------------- |
-| 204,000 | May 30, 2025    |
-| 195,500 | October 3, 2024 |
-| 192,800 | July 7, 2024    |
-| 188,500 | March 31, 2024  |
-| 184,500 | January 8, 2024 |
+| Mile | Date |
+| :--- | ---- |
+| -    | -    |
