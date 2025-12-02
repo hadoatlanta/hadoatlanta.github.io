@@ -48,7 +48,7 @@ title = 'Gas Furnace installation'
 
 1. AC and Coil
    - Calling Service for Cooling
-     - Connect Red wire to Yellow and Green wire.
+     - Connect Red wire to Yellow wire.
    - Calling Service for Heating
      - Connect Red wire to White wire
    - Calling Service for Fan Only
