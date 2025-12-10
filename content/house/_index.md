@@ -16,5 +16,5 @@ title = 'House'
 | Furnace            |        Size | Replacement Date |    Location     |
 | :----------------- | ----------: | ---------------: | :-------------: |
 | Lennox EL180       | 16 x 25 x 1 |                - | 1900 Federal CT |
-| Lennox GS18Q3-75-5 |       9.133 |                - | 1900 Federal CT |
+| Lennox GS18Q3-75-5 | 14 x 20 x 1 |                - | 1900 Federal CT |
 | -                  | 20 x 25 x 1 |                - |  191 Muphy Ave  |
