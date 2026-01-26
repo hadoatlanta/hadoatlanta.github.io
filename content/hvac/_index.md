@@ -4,6 +4,53 @@ draft = false
 title = 'HVAC'
 +++
 
+## Yellow Jacket Fittings
+
+- A2L Single Gauge
+  - Yellow Jacket 49117 A2L - RED
+  - Yellow Jacket 49118 A2L - BLUE
+  - Yellow Jacket 19110 Quick Coupler - Goes With Gauge
+  - Yellow Jacket 19210(90 degree) Quick Coupler - Goes With Gauge
+- https://yellowjacket.com/product/quick-couplers-expanded-line/
+  - [Documents](./yellow_jacket_hose_adapters_valves_and_parts_brochure.pdf).
+
+    |         | Straight quick couplers                 |      |
+    | :------ | :-------------------------------------- | ---: |
+    | Part No | Description                             | Note |
+    | 19125   | 1/8″ Female QC x 1/4″ Male flare (Ford) |    - |
+    | 19120   | 3/16″ Female QC x 1/4″ Male flare (GM)  |    - |
+    | 19101   | 1/4″ Female QC x 1/4″ Male flare        |    - |
+    | 19102   | 1/4″ Female QC x 3/8″ Male flare        |    - |
+    | 19111   | 1/4″ Female QC Str. x 1/8″ NPT Males    |    - |
+    | 19116   | 1/4″ Female QC Str. x 1/4″ NPT Male     |    - |
+    | 19103   | 3/8″ Female QC x 3/8″ Male flare        |    - |
+    | 19104   | 3/8″ Female QC x 1/4″ Male flare        |    - |
+    | 19115   | 1/2″ Female QC x 3/8″ Male flare        |    - |
+    | 19114   | 3/8″ Female QC x 1/2″ Male flare        |    - |
+
+    |         | 90° Quick couplers                    |      |
+    | :------ | :------------------------------------ | ---: |
+    | Part No | Description                           | Note |
+    | 19220   | 3/16″ Female QC 90° x 1/4″ Male flare |      |
+    | 19201   | 1/4″ Female QC 90° x 1/4″ Male flare  |      |
+    | 19202   | 1/4″ Female QC 90° x 3/8″ Male flare  |      |
+    | 19203   | 3/8″ Female QC 90° x 3/8″ Male flare  |      |
+    | 19214   | 3/8″ Female QC 90° x 1/2″ Male flare  |      |
+
+
+    |           | Gauge quick couplers with CH14 adjustable valve opener |                             |
+    | :-------- | :----------------------------------------------------- | --------------------------: |
+    | Part No   | Description                                            |                        Note |
+    | **19110** | **1/4″ Female QC x 1/8″ NPT Fe.**                      | Using as single Stub Gauges |
+    | **19210** | **1/4″ Fe. QC 90° x 1/8″ NPT Fe.**                     | Using as single Stub Gauges |
+    | 19118     | 1/4″ Female QC Str. x 1/4″ NPT Female                  |                             |
+    | 19218     | 1/4″ Fe. QC 90° x 1/4″ NPT Fe.                         |                             |
+
+- Charging Tee Fittings
+  - CPS - https://www.amazon.com/gp/product/B076CPKR6S/.
+  - APPION - https://www.amazon.com/Appion-MegaSeal-Low-Loss-Charging-T-Fitting/dp/B07CZ3V566/.
+  - NAVAC - https://navacglobal.com/product/1-4-sae-access-tee-connector-2-pk/.
+
 ## Saturated Refrigerant Temperature Basics
 
 - The saturated state of a refrigerant refers to the condition where the refrigerant exists in both its liquid and vapor states simultaneously, at a specific temperature and pressure. This occurs during key phases of the refrigeration cycle—boiling in the evaporator and condensing in the condenser.

@@ -10,6 +10,15 @@ title = 'House'
 | :------------------------- | :-------------: |
 | Furnace Lennox EL180       | 1900 Federal CT |
 | Furnace Lennox GS18Q3-75-5 | 1900 Federal CT |
+| Ducati                     | 191 Murphy Ave  |
+
+## Capacitor
+
+| Detail            |    Location    |
+| :---------------- | :------------: |
+| RHdeem - 45+5     | 191 Murphy Ave |
+| Blower Unit - 7.5 | 191 Murphy Ave |
+
 
 ## Air Filter
 
@@ -17,4 +26,4 @@ title = 'House'
 | :----------------- | ----------: | ---------------: | :-------------: |
 | Lennox EL180       | 16 x 25 x 1 |     20 Dec, 2025 | 1900 Federal CT |
 | Lennox GS18Q3-75-5 | 14 x 18 x 1 |     20 Dec, 2025 | 1900 Federal CT |
-| -                  | 20 x 25 x 1 |     20 Dec, 2025 |  191 Muphy Ave  |
+| Ducati             | 20 x 25 x 1 |     20 Dec, 2025 | 191 Murphy Ave  |
