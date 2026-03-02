@@ -14,9 +14,9 @@ title = '2022 Toyota Camry'
 - Make - DENSO FC16HR-Q8.
 - GAP - **_1.2 mm (0.0472 in.)_**.
 
-| Type | Mile | Date |
-| :--: | :--: | :--: |
-|  -   |  -   |  -   |
+| Type  | Mile  | Date  |
+| :---: | :---: | :---: |
+|   -   |   -   |   -   |
 
 ## Air Filter & Cabin Air Filter
 
@@ -80,7 +80,8 @@ title = '2022 Toyota Camry'
 
 | Mile   | Date               |
 | :----- | ------------------ |
-| 72,000 | Aug 30, 2025        |
+| 78,200 | March 1, 2025      |
+| 72,000 | Aug 30, 2025       |
 | 67,500 | May 3, 2025        |
 | 62,000 | January 13, 2025   |
 | 55,000 | October 4, 2024    |
