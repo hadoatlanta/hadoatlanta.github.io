@@ -14,10 +14,11 @@ title = 'House'
 
 ## Capacitor
 
-| Detail            |    Location    |
-| :---------------- | :------------: |
-| RHdeem - 45+5     | 191 Murphy Ave |
-| Blower Unit - 7.5 | 191 Murphy Ave |
+| Detail            |           Location            |
+| :---------------- | :---------------------------: |
+| RHdeem - 45+5     |        191 Murphy Ave         |
+| Blower Unit - 7.5 |        191 Murphy Ave         |
+| Blower Unit - 7.5 | 1900 Federal CT - Crawl space |
 
 
 ## Air Filter
