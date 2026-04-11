@@ -47,9 +47,9 @@ title = '2013 Honda Accord LX'
 - Check Plug
   - Tightening torque : **_20 Nm (2 kg-m, 15 ft-lb)_**.
 
-| Mile | Date |
-| :--- | ---- |
-| -    | -    |
+| Mile   | Date           |
+| :----- | -------------- |
+| 66,500 | April 10, 2026 |
 
 ## Engine Coolant
 
