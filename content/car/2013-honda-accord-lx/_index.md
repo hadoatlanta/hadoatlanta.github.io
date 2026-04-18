@@ -99,11 +99,11 @@ title = '2013 Honda Accord LX'
 - Trip odometer reset:
   - https://www.youtube.com/watch?v=OLPYHs5Phqc
 - Drain plug.
-  - 14mm bolt.
+  - 17mm bolt.
   - Tightening torque : **_40 N·m (4.1 kg-m, 30 ft-lb)_**.
-- [Engine Oil - 5W-30](https://www.walmart.com/ip/Super-Tech-Advanced-Full-Synthetic-Motor-Oil-SAE-5W-30-5-Quarts/514849921).
+- [Engine Oil - 0W-20](- [Engine Oil - 0W-20](https://www.walmart.com/ip/Super-Tech-Advanced-High-Mileage-Full-Synthetic-SAE-0W-20-Motor-Oil-5-Quarts/5108695323).
 - [Engine Oil Filter](https://www.walmart.com/ip/Super-Tech-ST6607-10K-Mile-Spin-On-Motor-Oil-Filter-Fits-Honda-and-Infiniti-Vehicles-Fits-select-1998-2023-NISSAN-ALTIMA-2002-2023-HONDA-CR-V/506906164).
 
-| Mile | Date |
-| :--- | ---- |
-| -    | -    |
+| Mile   | Date           |
+| :----- | -------------- |
+| 66,500 | April 10, 2026 |
