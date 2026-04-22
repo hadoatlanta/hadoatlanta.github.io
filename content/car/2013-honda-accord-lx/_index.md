@@ -32,15 +32,15 @@ title = '2013 Honda Accord LX'
 
 - [Brake Fluid Oil - DOT 3](https://www.walmart.com/ip/Super-Tech-DOT-3-Brake-Fluid-32-oz/16821254).
 
-| Type | Mile | Date |
-| :--- | :--- | ---- |
-| -    | -    | -    |
+| Type            | Mile   | Date           |
+| :-------------- | :----- | -------------- |
+| Brake Fluid Oil | 66,500 | April 10, 2026 |
 
 ## Transmission Oil & Transmission Oil Filter
 
 - Engine start until the radiator fan come on.
 - Transmission Oil.
-  - **_NISSAN CVT Fluid NS-2_**.
+  - **_Honda Genuine CVT Fluid (HCF-2)_**.
   - **_3.3 qt_**.
 - Drain Plug
   - Tightening torque : **_49 Nm (5 kg-m, 36 ft-lb)_**.
@@ -80,12 +80,13 @@ title = '2013 Honda Accord LX'
   - P245/40R19
 - Air pressure.
   - Front - 32psi.
-  - Rear - 33psi.
+  - Rear - 32psi.
   - Spare - 60psi.
 
-| Mile | Date |
-| :--- | ---- |
-| -    | -    |
+| Mile   | Date           |
+| :----- | -------------- |
+| 66,500 | April 10, 2026 |
+
 
 ## Engine Oil & Engine Oil Filter
 
@@ -100,7 +101,7 @@ title = '2013 Honda Accord LX'
   - https://www.youtube.com/watch?v=OLPYHs5Phqc
 - Drain plug.
   - 17mm bolt.
-  - Tightening torque : **_40 N·m (4.1 kg-m, 30 ft-lb)_**.
+  - Tightening torque : **_49 N·m (4.1 kg-m, 30 ft-lb)_**.
 - [Engine Oil - 0W-20](- [Engine Oil - 0W-20](https://www.walmart.com/ip/Super-Tech-Advanced-High-Mileage-Full-Synthetic-SAE-0W-20-Motor-Oil-5-Quarts/5108695323).
 - [Engine Oil Filter](https://www.walmart.com/ip/Super-Tech-ST6607-10K-Mile-Spin-On-Motor-Oil-Filter-Fits-Honda-and-Infiniti-Vehicles-Fits-select-1998-2023-NISSAN-ALTIMA-2002-2023-HONDA-CR-V/506906164).
 
