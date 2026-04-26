@@ -28,3 +28,10 @@ title = 'House'
 | Lennox EL180       | 16 x 25 x 1 |     20 Dec, 2025 | 1900 Federal CT |
 | Lennox GS18Q3-75-5 | 14 x 18 x 1 |     20 Dec, 2025 | 1900 Federal CT |
 | Ducati             | 20 x 25 x 1 |     20 Dec, 2025 | 191 Murphy Ave  |
+
+## Water Heater
+
+| Detail                |    Location     |     Flush      |
+| :-------------------- | :-------------: | :------------: |
+| Electric Water Heater | 1900 Federal CT | April 26, 2026 |
+| Ducati                | 191 Murphy Ave  |                |
