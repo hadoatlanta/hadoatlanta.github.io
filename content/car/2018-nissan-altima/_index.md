@@ -65,7 +65,7 @@ title = '2018 Nissan Altima'
 - Nut.
   - 21mm bolt.
   - Tightening torque : **_113 Nm (12 kg-m, 83 ft-lb)_**.
-- Tire size - **_P205/50R17_**.
+- Tire size - **_P235/45R18_**.
   - Front
     - P215/60R16 220 kPa, 32 PSI
     - P215/55R17 230 kPa, 33 PSI
