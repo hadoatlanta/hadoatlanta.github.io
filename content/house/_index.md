@@ -17,6 +17,7 @@ title = 'House'
 | Detail                    |           Location            |
 | :------------------------ | :---------------------------: |
 | RHdeem - 45+5             |        191 Murphy Ave         |
+| Lennox - 35+5             |        1900 Federal CT        |
 | Blower Unit - 7.5         |        191 Murphy Ave         |
 | Blower Unit - 7.5         | 1900 Federal CT - Crawl space |
 | Dual Capacitor(12) - 35+5 |         May 19, 2026          |
@@ -36,6 +37,13 @@ title = 'House'
 | :-------------------- | :-------------: | :------------: |
 | Electric Water Heater | 1900 Federal CT | April 26, 2026 |
 | Ducati                | 191 Murphy Ave  |                |
+
+## Kid DIY workshop
+
+1. Lowe - Third Saturday of Month
+   1. https://www.lowes.com/diy-projects-and-ideas/workshops
+2. Homedepot - First Saturday of Month
+   1. https://www.homedepot.com/c/kids-workshop
 
 ## Brother Printer HL-L2390DW
 
