@@ -56,9 +56,15 @@ title = '2018 Nissan Altima'
 
 ## Suspension
 
-| Type | Mile | Date |
-| :--- | :--- | ---- |
-| -    | -    | -    |
+| Type                      | Mile    | Date         | Note    |
+| :------------------------ | :------ | ------------ | ------- |
+| Tie Rod End - Right       | 156,000 | May 01, 2026 | Replace |
+| Tie Rod End - Left        | 156,000 | May 01, 2026 | Replace |
+| Lower Control Arm - Right | 156,000 | May 01, 2026 | Replace |
+| Lower Control Arm - Left  | 156,000 | May 01, 2026 | Replace |
+| State Bar Link - Right    | 156,000 | May 01, 2026 | Replace |
+| State Bar Link - Left     | 156,000 | May 01, 2026 | Replace |
+
 
 ## Wheel Rotate
 
@@ -70,14 +76,14 @@ title = '2018 Nissan Altima'
     - P215/60R16 220 kPa, 32 PSI
     - P215/55R17 230 kPa, 33 PSI
     - P235/45R18 230 kPa, 33 PSI
-- Rear
-  - P215/60R16 220 kPa, 32 PSI
-  - P215/55R17 230 kPa, 33 PSI
-  - P235/45R18 230 kPa, 33 PSI
+  - Rear
+    - P215/60R16 220 kPa, 32 PSI
+    - P215/55R17 230 kPa, 33 PSI
+    - P235/45R18 230 kPa, 33 PSI
 
-| Mile | Date |
-| :--- | ---- |
-| -    | -    |
+| Mile    | Date         |
+| :------ | ------------ |
+| 156,255 | May 04, 2026 |
 
 ## Engine Oil & Engine Oil Filter
 
