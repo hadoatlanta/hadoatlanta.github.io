@@ -81,9 +81,9 @@ title = '2018 Nissan Altima'
     - P215/55R17 230 kPa, 33 PSI
     - P235/45R18 230 kPa, 33 PSI
 
-| Mile    | Date         |
-| :------ | ------------ |
-| 156,255 | May 04, 2026 |
+| Mile    | Date         | Note                                        |
+| :------ | ------------ | ------------------------------------------- |
+| 156,255 | May 04, 2026 | [Replace](../images/Altima-2018-tires.jpeg) |
 
 ## Engine Oil & Engine Oil Filter
 
