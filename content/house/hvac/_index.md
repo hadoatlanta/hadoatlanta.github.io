@@ -111,4 +111,4 @@ Hit Enter/Return key.
 5. Select ***Files***.
 6. Press Ok Button.
 7. Press ***Start*** Button.
-8. Press ***-*** Button to send file to PC.
+8. Press minus***(-)*** Button to send file to PC.
