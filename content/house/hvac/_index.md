@@ -96,3 +96,19 @@ Processing triggers for libc-bin (2.35-0ubuntu3.13) ...
 
 brsaneconfig4 -a name=HL-L2390DW model=HL-L2390DW ip=10.0.0.116
 Hit Enter/Return key.
+
+### How to use Brother Scanner
+
+1. Check Borther Scanner on a computer
+2. All scanned files store in /home/hadn/brscan.
+
+#### Step to Scan
+
+1. Place a document on scanner.
+2. Press Scan Button.
+3. Select Scan to PC.
+4. Press Ok Button.
+5. Select ***Files***.
+6. Press Ok Button.
+7. Press ***Start*** Button.
+8. Press ***-*** Button to send file to PC.
