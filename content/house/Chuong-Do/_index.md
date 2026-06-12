@@ -6,6 +6,7 @@ title = 'Achivement'
 
 ## Result - Year 2026
 
-1. Advanced Math - First Grade at Craig Elementary School
+1. [Semester Result](../images/Do-Nguyen-Chuong-1st-Grade.pdf).
+2. Advanced Math - First Grade at Craig Elementary School
    1. Teacher - Ms Rosendahl
    2. [Link to result](../images/Chuong-Do-First-Grade-Achievement.pdf).

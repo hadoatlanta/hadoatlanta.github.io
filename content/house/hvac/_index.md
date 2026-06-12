@@ -97,6 +97,11 @@ Processing triggers for libc-bin (2.35-0ubuntu3.13) ...
 brsaneconfig4 -a name=HL-L2390DW model=HL-L2390DW ip=10.0.0.116
 Hit Enter/Return key.
 
+### Using Simple Scan
+
+1. Install simple-scan software ***sudo apt install simple-scan***
+2. Using simple-scan to scan document from Brother HL-L2390DW.
+
 ### How to use Brother Scanner
 
 1. Check Borther Scanner on a computer
