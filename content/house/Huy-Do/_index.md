@@ -4,6 +4,6 @@ draft = false
 title = 'Do Nhat Huy'
 +++
 
-## Result - Year 2026
+## Result 3rd Grade - Year 2026
 
 1. [Semester Result](../images/Do-Nhat-Huy-3rd-Grade.pdf).

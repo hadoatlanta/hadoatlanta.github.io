@@ -4,7 +4,7 @@ draft = false
 title = 'Do Nguyen Chuong'
 +++
 
-## Result - Year 2026
+## Result 1st Grade - Year 2026
 
 1. [Semester Result](../images/Do-Nguyen-Chuong-1st-Grade.pdf).
 2. Advanced Math - First Grade at Craig Elementary School
