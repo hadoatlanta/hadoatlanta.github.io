@@ -26,9 +26,21 @@ title = '2022 Toyota Camry'
 
 ## Brake Fluid Oil & Front/Rear Brake
 
-| Type        | Mile   | Date           |
-| :---------- | :----- | -------------- |
-| Brake Fluid | 40,000 | March 21, 2024 |
+
+| Type            | Mile   | Date           |
+| :-------------- | :----- | -------------- |
+| Brake Fluid     | 40,000 | March 21, 2024 |
+| Rear Brake Pads | 83,300 | June 24, 2026  |
+
+### Rear Brake
+
+1. caliper side bolt 
+   1. ***14 mm*** - 25 ft-lb
+2. Caliper side Pin
+   1. ***17 mm***
+3. Caliper bracket bolt
+   1. ***17 mm*** - 79 ft-lb
+
 
 ## Transmission Oil & Transmission Oil Filter
 
@@ -57,7 +69,7 @@ title = '2022 Toyota Camry'
 
 - Nut.
   - 21mm bolt.
-  - Tightening torque : **_113 Nm (12 kg-m, 83 ft-lb)_**.
+  - Tightening torque : **_113 Nm (12 kg-m, 76 ft-lb)_**.
 - Tire size.
   - **_235/45R18_**.
 - Air pressure.
@@ -65,9 +77,9 @@ title = '2022 Toyota Camry'
   - Rear - 33psi.
   - Spare - 60psi.
 
-| Mile    | Date          |
-| :------ | ------------- |
-| 132,400 | March 2, 2025 |
+| Mile   | Date          |
+| :----- | ------------- |
+| 83,300 | March 2, 2025 |
 
 ## Engine Oil & Engine Oil Filter
 
