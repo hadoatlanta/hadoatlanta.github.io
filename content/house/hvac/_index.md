@@ -14,13 +14,14 @@ title = 'House'
 
 ## Capacitor
 
-| Detail                    |           Location            |
-| :------------------------ | :---------------------------: |
-| RHdeem - 45+5             |        191 Murphy Ave         |
-| Lennox - 35+5             |        1900 Federal CT        |
-| Blower Unit - 7.5         |        191 Murphy Ave         |
-| Blower Unit - 7.5         | 1900 Federal CT - Crawl space |
-| Dual Capacitor(12) - 35+5 |         May 19, 2026          |
+| Detail                    |           Location            |   Replacement |
+| :------------------------ | :---------------------------: | ------------: |
+| RHdeem - 45+5             |        191 Murphy Ave         |               |
+| Lennox - 35+5             |        1900 Federal CT        | June 29, 2026 |
+| Confort - xx              |        1900 Federal CT        |               |
+| Blower Unit - 7.5         |        191 Murphy Ave         |               |
+| Blower Unit - 7.5         | 1900 Federal CT - Crawl space |               |
+| Dual Capacitor(11) - 35+5 |         May 19, 2026          |               |
 
 
 ## Air Filter
