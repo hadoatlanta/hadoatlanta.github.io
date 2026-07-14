@@ -46,6 +46,19 @@ title = 'House'
    1. https://www.lowes.com/diy-projects-and-ideas/workshops
 2. Homedepot - First Saturday of Month
    1. https://www.homedepot.com/c/kids-workshop
+3. Dell PC - service tag BJFCN83.
+
+## Thermostat
+
+1. Device 01
+   1. MAC ID: 48A2E60A8C5A
+   2. MAC CRC: 3C66
+2. Device 02
+   1. MAC ID: 48A2E60A8C8A
+   2. MAC CRC: 9266
+3. Device 03
+   1. MAC ID: 
+   2. MAC CRC: 
 
 ## Brother Printer HL-L2390DW
 
