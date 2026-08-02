@@ -56,14 +56,14 @@ title = '2019 Toyota Avalon es300h'
 ## Wheel Rotate
 
 - Nut.
-  - 21mm bolt.
-  - Tightening torque : **_113 Nm (12 kg-m, 83 ft-lb)_**.
+ - 21mm bolt.
+ - Tightening torque : **_113 Nm (12 kg-m, 83 ft-lb)_**.
 - Tire size.
-  - **_235/45R18_**.
+ - **_235/45R18_**.
 - Air pressure.
-  - Front - 33psi.
-  - Rear - 33psi.
-  - Spare - 60psi.
+ - Front - 33psi.
+ - Rear - 33psi.
+ - Spare - 60psi.
 
 | Mile | Date |
 | :--- | ---- |
@@ -73,8 +73,8 @@ title = '2019 Toyota Avalon es300h'
 
 - Engine Oil capacity - **_4.8 qt_**.
 - Drain plug.
-  - 14mm bolt.
-  - Tightening torque : **_40 Nm (408 kg, 30 ft.lbf)_**.
+ - 14mm bolt.
+ - Tightening torque : **_40 Nm (408 kg, 30 ft.lbf)_**.
 - [Engine Oil - 0W-16](https://www.walmart.com/ip/Mobil-1-Advanced-Fuel-Economy-Full-Synthetic-Motor-Oil-0W-16-5-Quart/747116534).
 - [Engine Oil Filter](https://www.walmart.com/ip/SuperTech-10K-mile-Spin-on-Oil-Filter-ST4967-for-Daihatsu-Lexus-and-Toyota-Fits-select-2019-2023-TOYOTA-RAV4-2018-2023-TOYOTA-CAMRY/803714395).
 
